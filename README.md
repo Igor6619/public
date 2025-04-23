@@ -21,3 +21,8 @@ max_count = intersections[best_set]
 print(f"Множество с наибольшим количеством совпадений: {best_set}")
 print(f"Количество совпадений: {max_count}")
 ```
+https://django.fun/articles/tutorials/obrabotka-periodicheskih-zadach-v-django-s-pomoshyu-celery-i-docker/?ysclid=m9u7nbpjzx393051413       
+
+
+отдельно запустить celery worker и  celery beat
+
